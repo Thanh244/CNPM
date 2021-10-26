@@ -1,0 +1,38 @@
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.csproj.AssemblyReference.cache
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.frmMeNu.resources
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.Properties.Resources.resources
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.QLMon.resources
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.csproj.GenerateResource.cache
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.csproj.CoreCompileInputs.cache
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\CaPheN.exe.config
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\CaPheN.exe
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\CaPheN.pdb
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.dll
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\Guna.UI2.dll
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.xml
+E:\DoAn\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.csproj.CopyComplete
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.exe
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.pdb
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.frmQLNhanVien.resources
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.frmDatMon.resources
+E:\DoAn\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.frmLogin.resources
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\CaPheN.exe.config
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\CaPheN.exe
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\CaPheN.pdb
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.dll
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\Guna.UI2.dll
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.xml
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.csproj.AssemblyReference.cache
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.frmDatMon.resources
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.frmMenu.resources
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.frmQLNhanVien.resources
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.Properties.Resources.resources
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.csproj.GenerateResource.cache
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.csproj.CoreCompileInputs.cache
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.exe
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.pdb
+C:\Users\PC - Nguyen Yen Nhi\Desktop\WindowForm\CaPheN\CaPheN\obj\Debug\CaPheN.QLMatHang.resources
